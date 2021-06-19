@@ -17,7 +17,7 @@
         06	Device data sheets
         07	Equipment manuals
     h	Design and development record keeping
-        01	Lab notebooks
+        01	Development notebooks
         02	Photo documentation
         03	Code commenting
         04	Data sheets and design specification documents
