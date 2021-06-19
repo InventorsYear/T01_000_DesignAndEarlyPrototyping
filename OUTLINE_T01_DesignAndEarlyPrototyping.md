@@ -1,102 +1,63 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# T01 Design and Early Prototyping"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "    a Estimation and dimensional analysis\n",
-    "    b Requirements discovery, specification, and refinement\n",
-    "    c Systems thinking in design\n",
-    "    d Models of the engineering design process\n",
-    "    e Industrial engineering & design aesthetics\n",
-    "    f Reverse engineering\n",
-    "    g Design research\n",
-    "        01 Literature search\n",
-    "        02 Patent search\n",
-    "        03 Design source books and handbooks\n",
-    "        04 Designers resource websites\n",
-    "            .01 Hyperphysics\n",
-    "            .02 Engineering Toolbox\n",
-    "            .03 Engineering 360 / GlobalSpec\n",
-    "        05 ManufacturersÕ websites and catalogs\n",
-    "        06 Device data sheets\n",
-    "        07 Equipment manuals\n",
-    "    h Design and development record keeping\n",
-    "        01 Lab notebooks\n",
-    "        02 Photo documentation\n",
-    "        03 Code commenting\n",
-    "        04 Data sheets and design specification documents\n",
-    "        05 User manual writing and illustration\n",
-    "    i Design drawings\n",
-    "        01 Sketching\n",
-    "        02 Drafting\n",
-    "        03 Tolerancing and dimensioning\n",
-    "        04 2D CAD and standard file types\n",
-    "        05 3D CAD and standard file types\n",
-    "        06 Assembly drawings and animations\n",
-    "        07 Schematics\n",
-    "            .01 Electrical\n",
-    "            .02 Pneumatic\n",
-    "            .03 Plumbing\n",
-    "        08 System block diagrams\n",
-    "        09 Technical illustration\n",
-    "        10 Patent drawings\n",
-    "    j Design repositories (GitHub, etc.)\n",
-    "    k Open design\n",
-    "    l Graphic, poster, brochure and exhibit design\n",
-    "    m Engineering analysis & simulation software\n",
-    "        01 Stress\n",
-    "        02 Flow\n",
-    "        03 Concentration\n",
-    "        04 Temperature\n",
-    "        05 Electromagnetic fields\n",
-    "        06 Optical ray tracing\n",
-    "        07 System dynamics\n",
-    "        08 Circuit simulation\n",
-    "    n Making mockups and early prototypes\n",
-    "        01 Use of paper, cardboard & other art supplies\n",
-    "        02 Scale models\n",
-    "        03 Toy construction kits\n",
-    "        04 Tinkering and repurposing to create prototypes\n",
-    "    o Design for x\n",
-    "        01 Usability\n",
-    "        02 Sustainability\n",
-    "        03 Manufacturability\n",
-    "        04 Assembly\n",
-    "        05 Reliability and maintainability\n",
-    "        06 Developing economies\n",
-    "    p Human factors and universal design\n",
-    "    q Nature-inspired (biomimetic) design\n",
-    "\n"
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.7.6"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
+    a	Estimation and dimensional analysis
+    b	Requirements discovery, specification, and refinement
+    c	Systems thinking in design
+    d	Models of the engineering design process
+    e	Industrial engineering & design aesthetics
+    f	Reverse engineering
+    g	Design research
+        01	Literature search
+        02	Patent search
+        03	Design source books and handbooks
+        04	Designers resource websites
+            .01	Hyperphysics
+            .02	Engineering Toolbox
+            .03	Engineering 360 / GlobalSpec
+        05	Manufacturers’ websites and catalogs
+        06	Device data sheets
+        07	Equipment manuals
+    h	Design and development record keeping
+        01	Lab notebooks
+        02	Photo documentation
+        03	Code commenting
+        04	Data sheets and design specification documents
+        05	User manual writing and illustration
+    i	Design drawings
+        01	Sketching
+        02	Drafting
+        03	Tolerancing and dimensioning
+        04	2D CAD and standard file types
+        05	3D CAD and standard file types
+        06	Assembly drawings and animations
+        07	Schematics
+            .01	Electrical
+            .02	Pneumatic
+            .03	Plumbing
+        08	System block diagrams
+        09	Technical illustration
+        10	Patent drawings
+    j	Design repositories (GitHub, etc.)
+    k	Open design
+    l	Graphic, poster, brochure and exhibit design
+    m	Engineering analysis & simulation software
+        01	Stress
+        02	Flow
+        03	Concentration
+        04	Temperature
+        05	Electromagnetic fields
+        06	Optical ray tracing
+        07	System dynamics
+        08	Circuit simulation
+    n	Making mockups and early prototypes
+        01	Use of paper, cardboard & other art supplies
+        02	Scale models
+        03	Toy construction kits
+        04	Tinkering and repurposing to create prototypes
+    o	Design for x
+        01	Usability
+        02	Sustainability
+        03	Manufacturability
+        04	Assembly
+        05	Reliability and maintainability
+        06	Developing economies
+    p	Human factors and universal design
+    q	Nature-inspired (biomimetic) design
