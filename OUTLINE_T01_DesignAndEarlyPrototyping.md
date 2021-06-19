@@ -1,4 +1,4 @@
-# T01 Design and Early Prototyping 
+# T01 Design and Early Prototyping - OUTLINE
     a	Estimation and dimensional analysis
     b	Requirements discovery, specification, and refinement
     c	Systems thinking in design
